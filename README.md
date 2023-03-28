@@ -1,1 +1,1 @@
-### Files for animated GFC plot. Output is an mp4 file to be used in Linkedin post  
+### Files for animated GFC plot. Output is an mp4 file.  Data is sourced from St Louis Federal Reserve FRED. Various .csv data files attached in main branch and also the .py file contains the code to produce the animated plot. I used ChatGPT for much of the code . 
