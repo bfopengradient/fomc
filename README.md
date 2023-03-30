@@ -2,7 +2,7 @@ Files for animated GFC plot. Output is an mp4 file.  Data is sourced from St Lou
 
 Data files are as follows:
 
-* case_pc.psv. :  Us house price index, Case Shiller monthly % change 
+* case_pc.csv. :  Us house price index, Case Shiller monthly % change 
 * US_unemployment.csv : US Unemployment rate
 * fed_funds_rate.csv :  Fed funds effective rate 
 
